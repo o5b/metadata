@@ -1,0 +1,12 @@
+{
+    "name": "SuperNFT7",
+    "symbol": "SNFT7",
+    "description": "Super NFT 7",
+    "image": "https://raw.githubusercontent.com/o5b/metadata/master/logo/nft-7.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+}
