@@ -1,0 +1,12 @@
+{
+    "name": "SuperTestToken7",
+    "symbol": "STT7",
+    "description": "Super Test Token 7",
+    "image": "https://raw.githubusercontent.com/o5b/metadata/master/logo/token-7.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+}
